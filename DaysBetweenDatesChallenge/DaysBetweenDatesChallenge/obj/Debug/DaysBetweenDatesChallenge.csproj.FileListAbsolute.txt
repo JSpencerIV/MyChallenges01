@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\bin\DaysBetweenDatesChallenge.dll.config
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\bin\DaysBetweenDatesChallenge.dll
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\bin\DaysBetweenDatesChallenge.pdb
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\obj\Debug\DaysBetweenDatesChallenge.csprojResolveAssemblyReference.cache
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\obj\Debug\DaysBetweenDatesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\obj\Debug\DaysBetweenDatesChallenge.dll
+C:\Users\dell\source\repos\DaysBetweenDatesChallenge\DaysBetweenDatesChallenge\obj\Debug\DaysBetweenDatesChallenge.pdb
